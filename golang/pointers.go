@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func updateName(x *string) {
-	*x = "Sarah"
+	*x = "Abhiram"
 }
 
 func main() {
