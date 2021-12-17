@@ -27,4 +27,5 @@ func showData(leg int, eye int) {
 }
 func food() {
 	fmt.Println("Food is precious!!")
+	fmt.println("Happy Pedegreeing!!..)
 }
