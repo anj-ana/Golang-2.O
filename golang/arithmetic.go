@@ -15,5 +15,7 @@ func main() {
 	fmt.Printf("%d\n", d)
 	e := a - b
 	fmt.Printf("%d\n", &e)
+	h := a % b
+	fmt.printf("%d\n", &h)
 
 }
